@@ -207,6 +207,8 @@ Wine_Quality_Data.ipynb
 
 Run all cells sequentially.
 
+For Quick View of all the reults and the whole Jupyter Notebook file at once check: "Wine_Quality_Data.pdf"
+
 ---
 
 ## License
