@@ -208,8 +208,9 @@ Wine_Quality_Data.ipynb
 Run all cells sequentially.
 
 For Quick View of all the results and the whole Jupyter Notebook file at once check:
-text=
+```text
 Wine_Quality_Data.pdf
+```
 
 ---
 
