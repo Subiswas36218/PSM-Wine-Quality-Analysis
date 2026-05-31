@@ -207,7 +207,9 @@ Wine_Quality_Data.ipynb
 
 Run all cells sequentially.
 
-For Quick View of all the results and the whole Jupyter Notebook file at once check: https://github.com/Subiswas36218/PSM-Wine-Quality-Analysis/edit/main/README.md#:~:text=Wine_Quality_Data.pdf
+For Quick View of all the results and the whole Jupyter Notebook file at once check:
+text=
+Wine_Quality_Data.pdf
 
 ---
 
